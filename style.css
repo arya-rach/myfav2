@@ -1,0 +1,13 @@
+body{
+   background-image: linear-gradient(coral,violet,yellow,red,blue);
+  text-align: center;
+}
+#img1{
+  border-radius: 56%;
+  margin: 31px;
+  height: 200px;
+}
+li{
+ color: cadetblue;
+    text-align: right;
+}
